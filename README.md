@@ -13,6 +13,10 @@ Inside of your Astro project, you'll see the following folders and files:
 │   │   └── Layout.astro
 │   └── pages/
 │       └── index.astro
+│       └── nosotros.astro
+│       └── soluciones.astro
+│       └── valores-agregados.astro
+│       └── contacto.astro
 └── package.json
 ```
 
