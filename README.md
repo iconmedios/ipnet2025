@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Astro pages: IPNET 2025
 
 
 
